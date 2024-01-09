@@ -36,7 +36,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className='maxdev'>
-                <a href='#'>Pagina desarrollafa por <strong>Maxdev</strong></a>
+                <a href='#'>Pagina desarrollada por <strong>Maxdev</strong></a>
                 <img className='logoMaxdev' src="logoMax.png" alt="maxdev" />
             </div>
         </div>
